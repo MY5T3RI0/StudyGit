@@ -88,4 +88,7 @@
   <data name="ControlGroup_b4f77397fd0a41d0aa582d604470eea4" xml:space="preserve">
     <value />
   </data>
+  <data name="Property_Index" xml:space="preserve">
+    <value>Index</value>
+  </data>
 </root>
